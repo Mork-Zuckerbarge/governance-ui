@@ -1,4 +1,13 @@
 [
+  { 
+    "symbol": "BBQ",
+    "displayName": "BBQ DAO",
+    "programId": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw",
+    "realmId": "4iPX41E6UcqUfxa2xW16nm1add73QnWNS5d6HmUzxWzQ",
+    "ogImage": "https://github.com/Mork-Zuckerbarge/governance-ui/blob/main/public/realms/mork.jpg",
+    "website": "https://betaverse.quest",
+    "twitter": "@zuckerbarge" 
+  },
   {
     "symbol": "CAS",
     "displayName": "Cyborg Ape Society",
